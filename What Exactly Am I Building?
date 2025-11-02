@@ -1,0 +1,76 @@
+## 🚀 What Exactly Am I Building?
+
+I’m building a **full-stack web app** that helps people journal — something I call the **Sentiment-Aware Journaling System**.
+
+It’s an app that uses **AI and NLP (Natural Language Processing)** to detect emotions from a person’s daily journal entries.
+Think of it as your **digital emotional companion**, helping you track how you feel through your words.
+
+
+### 💭 “But Kartik, why this… and not some easy chatbot using OpenAI’s API?”
+
+Yeah… that would’ve been easier.
+But would I really *learn* anything from that? Probably not.
+
+I want to build something I’d be **proud of** — something challenging that pushes me to get at least **1% better every day**.
+
+
+
+## 🧠 What Will It Actually Do?
+
+Simple idea:
+
+1. You write your thoughts daily.
+2. The AI model analyzes your emotions.
+3. The app visualizes your emotional trends over time — helping you see how your mood changes.
+
+Basically, it’s like getting **small insights from your own mind.**
+
+
+
+## ⚙️ Tech Stack (for now)
+
+I’m learning as I go, so this may evolve, but here’s the current plan:
+
+* **Frontend:** React — for a clean, simple journaling interface
+* **Backend:** Django REST API — for user accounts and data management
+* **Model Service:** FastAPI — to serve my NLP model (BERT / DistilBERT)
+* **Database:** PostgreSQL — for storing journal entries
+* **ML Models:** VADER (baseline) → Fine-tuned BERT on *GoEmotions* dataset
+
+So yeah… it’s going to be a journey. 😅
+
+
+
+## 🎯 My Goal
+
+To document my entire progress — from **learning Django and APIs** to **deploying a real AI project.**
+
+### Roadmap:
+
+1. Learn Django & Build the Base App
+2. Add NLP Model for Emotion Detection
+3. Visualize Emotions with Graphs & Charts
+4. Collect Real Feedback & Analyze Accuracy
+5. Deploy Everything & Publish Research Paper
+
+By the end, I aim to have:
+✅ A working AI-powered journaling system
+✅ A published research paper explaining it
+
+
+
+## 🧩 Why Follow This Journey?
+
+Because I know there are students out there who want to start something in AI — but when they see that huge mountain of technologies, they lose hope before even taking the first step.
+
+I want to break that mountain into **small, doable steps**.
+To show that you don’t need to know everything to begin — just **curiosity and consistency.**
+
+If I can build this from scratch, **you can too.**
+
+
+
+### 🏷️ Keywords
+
+`AI` `NLP` `Machine Learning` `Django` `FastAPI` `React` `Python` `BERT` `Sentiment Analysis` `Mental Health` `Full Stack`
+
